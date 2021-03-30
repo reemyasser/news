@@ -1,0 +1,29 @@
+.form_cat
+{
+    margin: 80px 0px;
+    padding: 50px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+.btn_create
+{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+#form_create
+   
+{
+    
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    padding: 15px;
+}
+.mx-auto{
+    margin-bottom: 15px;
+}
+.col-6
+{
+    margin-top: 15px;
+}

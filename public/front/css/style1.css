@@ -1,0 +1,30 @@
+a.power{
+    width: 100%;
+    line-height: 1.2em;
+    height: 3.6em;
+  
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+a.title{
+    width: 100%;
+    line-height: 1.2em;
+    height: 3.6em;
+  
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+a.pp-title{
+    width: 100%;
+    line-height: 1.2em;
+    height: 3.6em;
+  
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
